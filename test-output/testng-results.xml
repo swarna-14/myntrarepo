@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23189" started-at="2020-04-01T00:00:28 IST" finished-at="2020-04-01T00:00:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23189" started-at="2020-04-01T00:00:28 IST" finished-at="2020-04-01T00:00:51 IST">
+      <class name="FunctionalTest.ProductSearchPage">
+        <test-method status="PASS" signature="productsearch()[pri:0, instance:FunctionalTest.ProductSearchPage@9660f4e]" name="productsearch" duration-ms="22268" started-at="2020-04-01T00:00:28 IST" finished-at="2020-04-01T00:00:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productsearch -->
+        <test-method status="PASS" signature="sortby()[pri:1, instance:FunctionalTest.ProductSearchPage@9660f4e]" name="sortby" duration-ms="792" started-at="2020-04-01T00:00:50 IST" finished-at="2020-04-01T00:00:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortby -->
+        <test-method status="PASS" signature="verifycount()[pri:2, instance:FunctionalTest.ProductSearchPage@9660f4e]" name="verifycount" duration-ms="45" started-at="2020-04-01T00:00:51 IST" finished-at="2020-04-01T00:00:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycount -->
+      </class> <!-- FunctionalTest.ProductSearchPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
